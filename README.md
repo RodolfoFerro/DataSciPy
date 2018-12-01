@@ -9,7 +9,7 @@
 ------
 ![DataSciPy](assets/DataSciPy.png)
 
-# Machine Learning as a Service (MLaaS): Sirvendo soluciones inteligentes
+# Data Science con SciPy
 
 En esta charla se ilustrará una técnica de ciencia de datos para estimar distribuciones probabilísticas de datos y con ello poder simular nuevos datos que sean válidos, aleatorios y se distribuyan de igual manera que los datos originales. Todo ello con el poder de SciPy.
 
