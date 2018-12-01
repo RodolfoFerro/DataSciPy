@@ -1,0 +1,11 @@
+name: DataSciPy
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python>=3.6
+  - matplotlib
+  - seaborn
+  - pandas
+  - scipy
+  - numpy
