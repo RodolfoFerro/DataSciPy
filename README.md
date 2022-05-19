@@ -3,7 +3,7 @@
 >
 > **Charla:** *Data Science con SciPy* <br>
 > **Tallerista:** Rodolfo Ferro <br>
-> **Twitter:** [@FerroRodolfo](https://twitter.com/FerroRodolfo) <br>
+> **Twitter:** [@rodo_ferro](https://twitter.com/rodo_ferro) <br>
 > **Contacto:** [https://rodolfoferro.xyz](https://rodolfoferro.xyz) <br>
   > **Slides:** [¡Click aquí!](https://goo.gl/5Q3BZ8)
 ------
